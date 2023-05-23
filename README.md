@@ -1,5 +1,5 @@
 # Página de Captura
 
-Este projeto consiste em uma página de captura criada apenas com HTML e CSS. A página tem como objetivo capturar informações dos usuários, mas atualmente não é possível realizar ações nela.
+Este é o meu primeiro projeto, consistindo em uma página de captura criada apenas com HTML e CSS. A página tem como objetivo coletar informações dos usuários, porém, atualmente, não permite a realização de ações.
 
 Link do projeto: https://inicolasalves.github.io/pagina-de-captura/
